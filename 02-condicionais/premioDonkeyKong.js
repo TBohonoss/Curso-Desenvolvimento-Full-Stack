@@ -8,6 +8,8 @@ if ((simbolo1 === simbolo2) && (simbolo2 === simbolo3)) {
     return "PERDEU"
 }
 
+// const roleta = (simbolo1 === simbolo2) && (simbolo2 === simbolo3) ? "GANHOU" : "PERDEU"
 
+// console.log(roleta);
 
 
