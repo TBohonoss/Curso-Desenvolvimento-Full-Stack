@@ -5,7 +5,9 @@ const pedro = "Pedro"
 
 const listaUsuarios = [thiago, joao, maria, pedro]
 
-console.log(listaUsuarios[0]);
-console.log(listaUsuarios[1]);
-console.log(listaUsuarios[2]);
-console.log(listaUsuarios[3]);
+console.log(listaUsuarios);
+
+listaUsuarios[1] = "Lucas"
+listaUsuarios[4] = "Ana"
+
+console.log(listaUsuarios);
