@@ -1,5 +1,5 @@
-const listaFrutas: string[] = ["banana", "abacaxi", "maçã", "pera", "uva"]
+const Frutas: string[] = ["banana", "abacaxi", "maçã", "pera", "uva"]
 
-listaFrutas[listaFrutas.length] = "abacate";
+Frutas[Frutas.length] = "abacate";
 
-console.log(listaFrutas);
+console.log(Frutas);
