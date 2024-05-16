@@ -2,7 +2,7 @@ const usuario = {
     nome: "Thiago Bohonos",
     idade: 33,
     altura: 1.75,
-    temCNH: false,
+    temCNH: true,
     habilidades: ["HTML", "CSS", "JavaScript"]
 }
 
